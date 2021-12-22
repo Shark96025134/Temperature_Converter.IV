@@ -27,19 +27,25 @@ g= (a + 459.67)*5/9
 h= a * 9/5 - 459.67
 
 if s== "Celsius" and b == "Fahrenheit":
+    
     print (c,"℉")
 
 if s== "Fahrenheit" and b == "Celsius":
+    
     print (d,"°C")
 
 if s== "Kelvin" and b == "Celsius":
+    
     print (f,"°C")
 
 if s== "Celsius" and b == "Kelvin":
-    print (e,"°K")
+   
+   print (e,"°K")
 
 if s== "Fahrenheit" and b == "Kelvin":
+    
     print (g,"°K")
 
 if s== "Kelvin" and b == "Farhenheit":
+    
     print (h,"°F").
