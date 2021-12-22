@@ -28,4 +28,4 @@ if s== "Fahrenheit" and b == "Kelvin":
     print (g,"°K")
 
 if s== "Kelvin" and b == "Farhenheit":
-    print (h,"°F").
+    print (h,"°F")
